@@ -1,0 +1,654 @@
+[
+   {
+      "name": "Верблюды",
+      "crags": [
+         {
+            "name": "Трапеция",
+            "imageName": "trapezoid_main.jpg",
+            "imagesRoutes": [
+               "trapezoid_sh1.png",
+               "trapezoid2.jpg",
+               "trapezoid3.jpg"
+            ],
+            "routes": [
+               {
+                  "name": "Крыло",
+                  "grade": "5c",
+                  "bolts": "9",
+                  "number": 10
+               },
+               {
+                  "name": "По щели",
+                  "grade": "5c",
+                  "bolts": "9",
+                  "number": 8
+               },
+               {
+                  "name": "Аннушка",
+                  "grade": "6c+",
+                  "bolts": "10",
+                  "number": 7
+               },
+               {
+                  "name": "Анечка",
+                  "grade": "7a+",
+                  "bolts": "9",
+                  "number": 6
+               },
+               {
+                  "name": "Пузики",
+                  "grade": "6a+",
+                  "bolts": "10",
+                  "number": 9
+               },
+               {
+                  "name": "Сибирь",
+                  "grade": "7b",
+                  "bolts": "9",
+                  "number": 5
+               },
+               {
+                  "name": "Серп",
+                  "grade": "7a",
+                  "bolts": "8",
+                  "number": 4
+               },
+               {
+                  "name": "Красные в городе",
+                  "grade": "6c",
+                  "bolts": "8",
+                  "number": 3
+               },
+               {
+                  "name": "Пластырь",
+                  "grade": "7b",
+                  "bolts": "9",
+                  "number": 2
+               },
+               {
+                  "name": "Бансай",
+                  "grade": "7a",
+                  "bolts": "11",
+                  "number": 1
+               },
+               {
+                  "name": "Посвящение",
+                  "grade": "7a",
+                  "bolts": "11",
+                  "number": 11
+               },
+               {
+                  "name": "Откровение",
+                  "grade": "8a",
+                  "bolts": "11",
+                  "number": 12
+               },
+               {
+                  "name": "Начало",
+                  "grade": "5c",
+                  "bolts": "9",
+                  "number": 13
+               }
+            ],
+            "lat": "52.964906",
+            "lon": "87.911511"
+         },
+         {
+            "name": "Подкова",
+            "imageName": "horseshoe_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "Нормально",
+                  "grade": "5с",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Снежный барс",
+                  "grade": "5с",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Апрель",
+                  "grade": "5с",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Будян",
+                  "grade": "5с",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Разлом",
+                  "grade": "5a",
+                  "bolts": "5",
+                  "number": 0
+               },
+               {
+                  "name": "Лыжня",
+                  "grade": "5с",
+                  "bolts": "7",
+                  "number": 0
+               },
+               {
+                  "name": "Помутись",
+                  "grade": "6a",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Паралимпиец",
+                  "grade": "5с",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Каменный поцелуй",
+                  "grade": "6a+",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Оптимизм",
+                  "grade": "5с+",
+                  "bolts": "7",
+                  "number": 0
+               },
+               {
+                  "name": "Антохен",
+                  "grade": "6a+",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Победа",
+                  "grade": "6b",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Наполеон",
+                  "grade": "7a+",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Октябрь",
+                  "grade": "7b",
+                  "bolts": "12",
+                  "number": 0
+               },
+               {
+                  "name": "Андрюша",
+                  "grade": "7a",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Мираж",
+                  "grade": "6b",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Не восьмёрка",
+                  "grade": "7c",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Башня",
+                  "grade": "6a",
+                  "bolts": "10",
+                  "number": 0
+               },
+               {
+                  "name": "Самурай",
+                  "grade": "7c",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Белка-летяга",
+                  "grade": "6a+",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Кедр",
+                  "grade": "6c",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Брусничка",
+                  "grade": "6a+",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Рябинка",
+                  "grade": "7a",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Август",
+                  "grade": "6c",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Фантазия",
+                  "grade": "6b",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Кацо",
+                  "grade": "7a",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Валькирия",
+                  "grade": "6с",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Возвращение",
+                  "grade": "7a",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Родина",
+                  "grade": "7a",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Полярная звезда",
+                  "grade": "7a",
+                  "bolts": "9",
+                  "number": 0
+               }
+            ],
+            "lat": "52.966018",
+            "lon": "87.912381"
+         },
+         {
+            "name": "Тридесятое королевство",
+            "imageName": "3_10_kingdom_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "Спелеолог",
+                  "grade": "5a",
+                  "bolts": "13",
+                  "number": 0
+               },
+               {
+                  "name": "Тридесятое королевство",
+                  "grade": "5c",
+                  "bolts": "13",
+                  "number": 0
+               },
+               {
+                  "name": "Блинная",
+                  "grade": "5c",
+                  "bolts": "13",
+                  "number": 0
+               },
+               {
+                  "name": "Изумрудная",
+                  "grade": "5c",
+                  "bolts": "11",
+                  "number": 0
+               },
+               {
+                  "name": "Прокопа",
+                  "grade": "5a",
+                  "bolts": "11",
+                  "number": 0
+               }
+            ],
+            "lat": "52.967124",
+            "lon": "87.912135"
+         },
+         {
+            "name": "III столб",
+            "imageName": "third_column_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "Тундра",
+                  "grade": "7a",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Молния",
+                  "grade": "6a+",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Дети севера",
+                  "grade": "6a",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Карниз",
+                  "grade": "6a",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Грибочек",
+                  "grade": "6b",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Второй",
+                  "grade": "6с",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Третий",
+                  "grade": "6с",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Четвертый",
+                  "grade": "6c",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "По углу",
+                  "grade": "6a",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Шестой",
+                  "grade": "7a❓",
+                  "bolts": "8",
+                  "number": 0
+               },
+               {
+                  "name": "Седьмой",
+                  "grade": "7a❓",
+                  "bolts": "8",
+                  "number": 0
+               }
+            ],
+            "lat": "52.969186",
+            "lon": "87.911848"
+         },
+         {
+            "name": "II столб",
+            "imageName": "second_column_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "Терминатор",
+                  "grade": "6b",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Северный",
+                  "grade": "7b",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Плутон",
+                  "grade": "7a",
+                  "bolts": "9",
+                  "number": 0
+               },
+               {
+                  "name": "Западный",
+                  "grade": "7b❓ ",
+                  "bolts": "9",
+                  "number": 0
+               }
+            ],
+            "lat": "52.969621",
+            "lon": "87.911930"
+         }
+      ],
+      "guidbookUrl": "camels_2020.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "camels_main.jpg"
+   },
+   {
+      "name": "Сектор Е",
+      "crags": [
+         {
+            "name": "Пирамида",
+            "imageName": "trapezoid_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "Кадёвка",
+                  "grade": "6c/6a",
+                  "bolts": "9/8",
+                  "number": 0
+               },
+               {
+                  "name": "Бабье лето",
+                  "grade": "6c/6a",
+                  "bolts": "10/9",
+                  "number": 0
+               },
+               {
+                  "name": "Мультипитч 3",
+                  "grade": "6a/6b",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "Мультипитч 4",
+                  "grade": "6a/6b",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "Барбос",
+                  "grade": "6c/6a",
+                  "bolts": "10/9",
+                  "number": 0
+               },
+               {
+                  "name": "Хозяин тайги",
+                  "grade": "6c/6a",
+                  "bolts": "10/9",
+                  "number": 0
+               }
+            ],
+            "lat": "52.949383",
+            "lon": "87.841978"
+         },
+         {
+            "name": "Пионерская стенка",
+            "imageName": "trapezoid_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "маршрут 1",
+                  "grade": "6a",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "маршрут 2",
+                  "grade": "6b",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "маршрут 3",
+                  "grade": "6b",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "маршрут 4",
+                  "grade": "6b",
+                  "bolts": "?",
+                  "number": 0
+               }
+            ],
+            "lat": "52.950012",
+            "lon": "87.843313"
+         },
+         {
+            "name": "Северная стена",
+            "imageName": "trapezoid_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "маршрут 1",
+                  "grade": "7",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "маршрут 2",
+                  "grade": "7",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "маршрут 3",
+                  "grade": "7a-7b",
+                  "bolts": "?",
+                  "number": 0
+               }
+            ],
+            "lat": "52.951897",
+            "lon": "87.843087"
+         }
+      ],
+      "guidbookUrl": "sector_e.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "sector_e.jpg"
+   },
+   {
+      "name": "Нижние Сарлыки",
+      "crags": [
+         {
+            "name": "Нижние Сарлыки",
+            "imageName": "trapezoid_main.jpg",
+            "imagesRoutes": [],
+            "routes": [
+               {
+                  "name": "Дуга",
+                  "grade": " > 8",
+                  "bolts": "7",
+                  "info": "прохождений нет",
+                  "number": 0
+               },
+               {
+                  "name": "Нет информациии",
+                  "grade": "7c",
+                  "bolts": "?",
+                  "number": 0
+               },
+               {
+                  "name": "Нет информациии",
+                  "grade": "7b-7c",
+                  "bolts": "?",
+                  "info": "прохождений нет",
+                  "number": 0
+               },
+               {
+                  "name": "Духовная сестра",
+                  "grade": "6c/6a",
+                  "bolts": "12/13",
+                  "number": 0
+               },
+               {
+                  "name": "Бурундук",
+                  "grade": "6b/6c",
+                  "bolts": "12/13",
+                  "number": 0
+               },
+               {
+                  "name": "Медитация",
+                  "grade": "6a/6c",
+                  "bolts": "12/14",
+                  "number": 0
+               }
+            ],
+            "lat": "52.927203",
+            "lon": "88.024322"
+         }
+      ],
+      "guidbookUrl": "sector_e.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "sarlyk_main.jpg"
+   },
+   {
+      "name": "Марина",
+      "crags": [],
+      "guidbookUrl": "",
+      "description": "Дополнительно описание района",
+      "imageName": "mundybash.jpg"
+   },
+   {
+      "name": "Спартак",
+      "crags": [],
+      "guidbookUrl": "mundybash.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "spartak_main.jpg"
+   },
+   {
+      "name": "Китайская стена",
+      "crags": [],
+      "guidbookUrl": "mundybash.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "chine_wall_main.jpg"
+   },
+   {
+      "name": "Белое пятно",
+      "crags": [],
+      "guidbookUrl": "mundybash.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "white_spot_main.jpg"
+   },
+   {
+      "name": "Поднебесные зубья",
+      "crags": [],
+      "guidbookUrl": "",
+      "description": "Дополнительно описание района",
+      "imageName": "sky_main.jpg"
+   },
+   {
+      "name": "Алтай-Турочак",
+      "crags": [],
+      "guidbookUrl": "turochak_2016.pdf",
+      "description": "Дополнительно описание района",
+      "imageName": "turochak_main.jpg"
+   },
+   {
+      "name": "ИТО и Драйтулинг",
+      "crags": [],
+      "guidbookUrl": "",
+      "description": "Дополнительно описание района",
+      "imageName": "ito_drytooling.jpg"
+   }
+]

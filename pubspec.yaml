@@ -1,0 +1,42 @@
+name: climb_gesh_on_flutter_demo
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  json_annotation: ^4.6.0
+  http: ^0.13.5
+  url_launcher: ^6.1.5
+  provider: ^6.0.3
+  intl: ^0.17.0
+  flutter_pdfview: ^1.2.3
+  path_provider: ^2.0.11
+  connectivity_plus: ^2.3.6+1
+  internet_connection_checker: ^0.0.1+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner:
+  json_serializable: ^6.3.1
+
+flutter:
+  assets:
+    - assets/
+    - assets/images/
+    - assets/pdf/
+  uses-material-design: true
